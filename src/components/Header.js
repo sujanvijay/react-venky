@@ -13,7 +13,7 @@ function Header() {
       <nav className="fs-header__nav">
         <a href="#home">Home</a>
         <a href="#bouquets">Bouquets</a>
-        <a href="#about">Aboutc</a>
+        <a href="#about">Aboutcjj</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
